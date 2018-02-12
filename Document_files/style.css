@@ -1,0 +1,24 @@
+body {
+  background-image: url("./images/carbon_fibre.png");
+}
+.header {
+  background: rgb(51, 47, 47);
+  color: #e2cf6e;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-weight: bolder;
+  padding: 0 12px 0 12px;
+  font-stretch: expanded;
+  letter-spacing: 15px;
+}
+.btn {
+  height: 30px;
+  color: #dadada;
+  float: right;
+  padding: 10px;
+  align-content: center;
+}
+.blackdog{
+    border-style: outset 5px grey;
+}

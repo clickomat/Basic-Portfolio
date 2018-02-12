@@ -1,0 +1,244 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-image: url("./images/dust_scratches.png");
+}
+
+.header {
+    float: left;
+    display: block;
+    height: 65px;
+    background: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-color: #dddddd;
+    border-bottom-width: 2px;
+    display: block;
+    width: 100%;
+}
+
+.name {
+    font-size-adjust: inherit;
+    background: #4aaaa5;
+    color: #dddddd;
+    text-align: center;
+    width: 20%;
+    height: 43px;
+    float: left;
+    border-bottom-style: solid;
+    border-bottom-color: #dddddd;
+    border-bottom-width: 2px;
+    margin-left: 5%;
+    padding-top: 22px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.about {
+    float: right;
+    display: block;
+    text-decoration: none;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    background: #ffffff;
+    font-family: 'helvitica Neue', Helvetica, sans-serif;
+    
+
+}
+
+.portfolio {
+    float: right;
+    display: block;
+    text-decoration: none;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background: #ffffff;
+    font-family: 'helvitica Neue', Helvetica, sans-serif;
+    
+}
+
+.contact {
+    float: right;
+    display: block;
+    text-decoration: none;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    margin-right: 12%;
+    background: #ffffff;
+    font-family: 'helvitica Neue', Helvetica, sans-serif;
+
+}
+
+.content {
+    width: 650px;
+    margin-left: 5%;
+    clear: both;
+    margin-top: 40px;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    background: #ffffff;
+    border: solid #dddddd 2px;
+    float: left;
+}
+
+.me {
+    width: 125px;
+    float: left;
+    padding-top: 30px;
+    padding-left: 25px;
+    padding-right: 15px;
+    background: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: darkgrey;
+    background: #ffffff;
+
+}
+
+.firstHeader {
+    padding-top: 30px;
+    padding-left: 25px;
+    background: #ffffff;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:#4aaaa5;
+    font-size: 1em;
+}
+
+.paragraph {
+    line-height: 24px;
+    font-size: 16px;
+    margin: 15 15px;
+    padding: 25px;
+    background:#ffffff;
+}
+
+p {
+    margin-top: 0;
+    color: #777777;
+    background: #ffffff;
+    font-family: 'helvitica Neue', Helvetica, sans-serif;
+}
+.line{
+    width: 90%;
+    border: solid grey 1px;
+    background: #ffffff;
+    margin: 20px 15px 2px 25px;
+}
+a.linkImage {
+    height: 40px;
+}
+.connect{
+    width:270px;
+    margin:40px 0px 0px 85px;
+    float: left;
+    margin-top: 40px;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    background: #ffffff;
+    border: solid #dddddd 2px;
+    float: left;
+
+}
+.secondHeader{
+    margin:30px 0 25px 0;
+    text-align: center;
+    background: #ffffff;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #4aaaa5;
+    
+
+
+}
+
+.git{
+    margin:0 0.5em 2em 1.5em
+}
+.linkedin{
+    margin:0 0.5em 2em 0.5em
+}
+.slack{
+    margin:0 1em 2em 0.5em
+}
+.footer{
+    clear: both;
+    background: #666666;
+    width: 100%;
+    border-top-color: #4aaaa5;
+    border-top-width: 1.5em;
+    margin-top:90px;
+    padding:1em 0 1em 0;
+    text-align: center;
+    height: 65px;
+    color: #dddddd;
+    font-size: 12px
+
+}
+.pages img{
+    background: #ffffff;
+    width: 200px; 
+    height: 175px;
+}
+.hangman {
+    float: left;
+    padding:2em 2em 2em 4em;
+    background: #ffffff;
+}
+.rpg{
+    float: left;
+    display: block;
+    padding: 2em;
+    background: #ffffff;
+
+}
+.trivia {
+    float: left;
+    padding:2em 2em 2em 4em;
+    background: #ffffff;
+
+}
+.widget{
+    float: left;
+    display: block;
+    padding: 2em;
+    background: #ffffff;
+}
+.roshambo{
+    float: left;
+    padding:2em 2em 2em 4em;
+    background: #ffffff;
+}
+h2{
+    background: #4aaaa5;
+    font-family: 'helvitica Neue', Helvetica, sans-serif;
+    color: #dddddd;
+    font-size: 15px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    bottom: 50px;
+
+}
+.form   {
+    background: #ffffff;
+    color: #777777;
+    padding-left: 25px;
+    margin: 15px 0 15px 0;
+}
+input{
+    color: #777777;
+    margin:10px 0 10px 0;
+    line-height: 3em;
+    font-size: 16px;
+}
+@media screen {max-width: 980px;
+    
+}
